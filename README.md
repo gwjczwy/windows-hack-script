@@ -1,2 +1,2 @@
-# windows�³��ýű�
+# windows下常用脚本
 
